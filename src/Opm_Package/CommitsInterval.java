@@ -1,5 +1,8 @@
 package Opm_Package;
 
+import read.Repos_Isissues;
+import read.Repos_Forks;
+import read.Repos_PullRequests;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
